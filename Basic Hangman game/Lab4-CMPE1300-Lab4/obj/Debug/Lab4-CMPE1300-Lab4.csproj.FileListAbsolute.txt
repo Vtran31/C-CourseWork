@@ -1,0 +1,23 @@
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe.config
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.pdb
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\GDIDrawer.dll
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csprojAssemblyReference.cache
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csproj.CopyComplete
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.exe
+C:\Users\vtran31\source\repos\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.pdb
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe.config
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.pdb
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csprojAssemblyReference.cache
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csproj.CopyComplete
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.exe
+G:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.pdb
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe.config
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.exe
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\Lab4-CMPE1300-Lab4.pdb
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\bin\Debug\GDIDrawer.dll
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csprojAssemblyReference.cache
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.csproj.CopyComplete
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.exe
+E:\NAIT 2019\Programming\Lab4-CMPE1300-Lab4\Lab4-CMPE1300-Lab4\obj\Debug\Lab4-CMPE1300-Lab4.pdb
